@@ -1,0 +1,4 @@
+.vs
+src/PSBLogPostSample.Web/node_modules/
+src/PSBLogPostSample.Web/wwwroot/lib/
+src/PSBLogPostSample.Web/wwwroot/js/site.min.js
